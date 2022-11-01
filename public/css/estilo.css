@@ -1,0 +1,57 @@
+
+
+body{
+    background-color: rgb(71, 71, 71);
+    width: 100%;
+    height: auto;
+
+}
+
+
+
+
+
+.cadastro {
+    background-color: rgb(33, 37, 41);
+    margin-top: 5%;
+    margin-bottom: 10%;
+    padding: 3%;
+    margin-left: 35%;
+    width: 400px;
+    border-radius: 5%;
+    color: rgb(219, 36, 36);
+}
+
+.botaoCadastro {
+
+    margin-top: 10%;
+
+    text-align: center;
+
+}
+
+
+
+
+
+
+/* ##### RODAPÉ ##### */
+
+
+
+
+/* ##### RODAPÉ ##### */
+
+footer{
+    
+        background-color: rgb(33, 37, 41);
+        color: #fff;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-weight: bolder;
+        clear: both;
+
+     
+    }
+
